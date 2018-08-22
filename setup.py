@@ -23,7 +23,6 @@ setup(
     install_requires = [
         'selenium', 
         'requests-html', 
-        'networkx',
-        'chromedriver'
+        'networkx'
     ]
 )
